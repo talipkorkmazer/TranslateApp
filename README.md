@@ -14,7 +14,7 @@ For getting inside of the php container, run
 
 Inside of the php container, run
 
-**composer update**
+**composer install**
 
 After all the necessary modules install application will be ready.
 
