@@ -1,4 +1,4 @@
-# finartzTranslate
+# TranslateApp
 
 `Installation`
 
