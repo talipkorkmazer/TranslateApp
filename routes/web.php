@@ -11,6 +11,10 @@
 |
 */
 
-Route::get('/', function () {
+/*Route::get('/', function () {
     return view('welcome');
-});
+});*/
+
+Route::get('/', 'TranslateLogsController@index')->name('home');
+Route::post('/translate', 'TranslateLogsController@translate')->name('translate');
+

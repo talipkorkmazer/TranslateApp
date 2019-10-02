@@ -31,3 +31,4 @@ docker/
 webpack.mix.js
 package.json
 phpunit.xml
+.idea
