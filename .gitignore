@@ -19,13 +19,5 @@ Homestead.json
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
 
-.editorconfig
-.env.example
-.gitattributes
-.styleci.yml
-bootstrap/
-webpack.mix.js
-package.json
-phpunit.xml
 .idea
 composer.lock
