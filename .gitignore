@@ -20,15 +20,12 @@ Homestead.json
 .rocketeer/
 
 .editorconfig
-.editorconfig
 .env.example
 .gitattributes
 .styleci.yml
 bootstrap/
-composer.lock
-docker-compose.yml
-docker/
 webpack.mix.js
 package.json
 phpunit.xml
 .idea
+composer.lock
